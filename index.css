@@ -350,7 +350,7 @@ margin: 5px 0px;
 }
 .img-1-port, .img-2-port, .img-3-port{
     /* background-image: url(/images/wp6045025.jpg); */
-    background-image: url(/wp6045025.jpg);
+    background-image: url(./wp6045025.jpg);
     background-position: center;
     background-size: cover;
     width: 300px;
